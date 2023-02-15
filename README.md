@@ -1,0 +1,1 @@
+This repo contains the code for the OpenAI chat blog. Don't forget to set the OPENAI_API_KEY in your env.
